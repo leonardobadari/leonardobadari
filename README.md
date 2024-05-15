@@ -1,16 +1,21 @@
-### Hi there 👋
+### Bem Vindo
 
-<!--
-**leonardobadari/leonardobadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mais sobre mim
 
-Here are some ideas to get you started:
+- Tenho 16 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Me chamo Leonardo
+
+- Estou cursando o ensino médio
+
+### Para entra em contato comigo
+
+email: leonardo@rafaw940.com.br
+
+instagram: @leo_rafael.08
+
+![](https://media1.tenor.com/m/hOA-3J5QyFQAAAAC/luffy-one-piece.gif)
+
+
+
+
