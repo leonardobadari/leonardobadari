@@ -2,11 +2,11 @@
 
 ## Mais sobre mim
 
-- Tenho 16 anos
+- Tenho 17 anos
 
 - Me chamo Leonardo
 
-- Estou cursando o ensino médio
+- Finalizei o ensino médio
 
 ### Para entra em contato comigo
 
